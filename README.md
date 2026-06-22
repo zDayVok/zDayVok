@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zDayVok
 - 👀 I'm interested in study codes
-- 🌱 I’m currently learning UE5
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on games and softwares
 - 📫 How to reach me on discord: Malugronde#4426
 
